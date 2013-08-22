@@ -11,6 +11,7 @@ gem 'bootstrap-will_paginate', '0.0.9'
 
 group :development, :test do
   gem 'pg', '0.15.1'
+  gem 'sqlite3', '1.3.7'
   gem 'rspec-rails', '2.13.1'
   # The following optional lines are part of the advanced setup.
   gem 'guard-rspec', '2.5.0'
